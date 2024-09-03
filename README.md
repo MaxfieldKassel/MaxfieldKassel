@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxfield</h1>
-<h3 align="center">A passionate Software/DevOps Engineer currently earning my Master's in Software Engineering from Carnegie Mellon University</h3>
+<h3 align="center">A passionate Software/DevOps Engineer currently earning a Master's in Software Engineering from Carnegie Mellon University</h3>
 <hr>
 <p align="center">
 With a strong foundation in computer science from the University of Wisconsin-Madison, I'm dedicated to pushing the boundaries of scalable systems, DevOps, and software optimization. At Carnegie Mellon, I've been honing my skills in advanced software engineering with hands-on experience in cutting-edge DevSecOps practices. Whether working on complex projects or managing my own local Proxmox cluster, I'm driven by a love for debugging, problem-solving, and crafting efficient, reliable solutions.
